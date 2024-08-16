@@ -1,0 +1,15 @@
+.button{
+    color: white;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-left: 850px;
+    font-size: large;
+    background-color: rgb(23, 128, 2);
+    border-radius: 10px ;
+}
+.button:hover{
+    background-color: rgb(255, 0, 0);
+}
+.hi{
+    background-color: rgb(1, 47, 92);
+}
